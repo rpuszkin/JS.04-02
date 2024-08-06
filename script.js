@@ -1,3 +1,4 @@
+//prettier
 function compare(num1, num2) {
   if (num1 > num2) {
     return 1;
@@ -11,4 +12,4 @@ function compare(num1, num2) {
 const res1 = compare(2, 1);
 const res2 = compare(1, 2);
 const res3 = compare(1, 1);
-consol.log(res1 + res2 + res3);
+console.log(res1 + res2 + res3);
